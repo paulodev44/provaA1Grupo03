@@ -3,17 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KopiLuwak</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>Kopi Luwak</title>
+    <!-- CSS Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- CSS Personalizado -->
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     
-<nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm">
+    <!-- Barra de Navegação -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm">
         <div class="container">
-            <!-- Logomarca minimalista -->
-            <a class="navbar-brand d-flex align-items-center" href="#">
-                <img src="imagens/logo.jpg" alt="Logo" height="40" class="me-2">
+            <!-- Logomarca -->
+            <a class="navbar-brand d-flex align-items-center" href="index.html">
+                <!-- Placeholder para a logo -->
+                <img src="imagens/logo.jpg" alt="Logo Bebidas de Luxo" height="40" class="me-2 rounded">
                 <div>
                     <span class="fw-semibold text-dark">Bebidas de Luxo</span><br>
                 </div>
@@ -38,46 +42,48 @@
             </div>
         </div>
     </nav>
-        <ul class="nav-menu">
-          <li><a href="index.html">← Voltar para Início</a></li>
-          <li><a href="KopiLuwak.html" class="active">Kopi Luwak</a></li>
-        </ul>
 
-  <main class="main-content">
-    <section class="produto">
-      <h2>Kopi Luwak</h2>
-        <p>Produzido em Sumatra, Indonésia, o café Kopi Luwak é para poucos: apenas 228g custam R$ 211.
-        Isso porque, além de seu elevado preço, o nome “Luwak” remete a uma espécie de gato herbívoro que habita as 
-        florestas da região e come os grãos de café </p>
-      <img src="imagens/kopi.jpg" alt="kopi" class="produto-img">
-    </section>
-  </main>
+    <!-- Conteúdo Principal -->
+    <main class="main-content container py-5">
+        <section class="produto text-center">
+            <h2>Kopi Luwak</h2>
+            <p class="lead col-md-8 mx-auto">Produzido em Sumatra, Indonésia, o café Kopi Luwak é para poucos: apenas 228g custam R$ 211.
+            Isso porque, além de seu elevado preço, o nome “Luwak” remete a uma espécie de gato herbívoro que habita as 
+            florestas da região e come os grãos de café.</p>
+            <!-- Imagem original do usuário (mantida) -->
+            <img src="imagens/kopi.jpg" alt="Grãos de café Kopi Luwak" class="produto-img img-fluid rounded shadow-sm mt-4" style="max-width: 400px; height: auto;">
+        </section>
+    </main>
 
-  <!-- Rodapé -->
-     <footer style="background: linear-gradient(135deg, #ff6ec4 0%, #7873f5 100%);
-                color: #fff;
+    <!-- Rodapé com redes sociais -->
+    <footer style="background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+                color: #333;
                 text-align: center;
                 padding: 2rem 1rem;
-                font-family: 'Poppins', sans-serif;">
+                font-family: 'Poppins', sans-serif; border-top: 1px solid #ccc;">
         <div class="container">
-            <p style="margin-bottom: 0.5rem; font-size: 1.2rem;">
-                🍹 Explore sabores que só existem na imaginação
+            <p style="margin-bottom: 0.5rem; font-size: 1.2rem; font-weight: 500;">
+                🍹 Explore as Bebidas mais fantásticas e luxuosas
             </p>
             <!-- Ícones de redes sociais -->
             <div style="margin: 1rem 0;">
-                <a href="https://www.instagram.com" target="_blank" style="color: #fff; margin: 0 10px;">
-                    <i class="fab fa-instagram fa-lg">Instagram</i>
+                <a href="https://www.instagram.com" target="_blank" style="color: #333; margin: 0 10px; text-decoration: none;">
+                    Instagram
                 </a>
-                <a href="https://www.facebook.com" target="_blank" style="color: #fff; margin: 0 10px;">
-                    <i class="fab fa-facebook fa-lg">Facebook</i>
+                <a href="https://www.facebook.com" target="_blank" style="color: #333; margin: 0 10px; text-decoration: none;">
+                    Facebook
                 </a>
-                <a href="https://www.twitter.com" target="_blank" style="color: #fff; margin: 0 10px;">
-                    <i class="fab fa-twitter fa-lg">Twitter</i>
+                <a href="https://www.twitter.com" target="_blank" style="color: #333; margin: 0 10px; text-decoration: none;">
+                    Twitter
                 </a>
             </div>
             <p style="margin-bottom: 0; font-size: 0.9rem;">
-                © 2025 Bebidas Imaginárias Diferentes — Todos os direitos reservados
+                © 2025 Bebidas de Luxo — Todos os direitos reservados
             </p>
         </div>
     </footer>
+
+    <!-- JS do Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+</html>
