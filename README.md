@@ -31,22 +31,7 @@ JavaScript (ES6+): Para a lógica de inicialização do mapa.
 Leaflet.js: Biblioteca JavaScript de código aberto para mapas interativos.
 
 
-🏃 Como Executar
 
-Este é um projeto web estático. Nenhuma instalação de servidor ou dependências é necessária.
-
-Clone o repositório:
-
-git clone [https://github.com/paulodev44/provaA1Grupo03.git]
-
-
-Navegue até a pasta do projeto:
-
-cd provaA1Grupo03
-
-
-Abra o arquivo principal:
-Abra o arquivo index.html diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
 
 👥 Autores
 Paulo Rafael da Silva Sales
