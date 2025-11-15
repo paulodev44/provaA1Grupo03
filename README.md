@@ -50,9 +50,6 @@ provaA1Grupo03/
 ├── ChateauLafitte1787.html
 └── KopiLuwak.html
 
-
-Nota: A pasta imagens/ não foi fornecida, mas é necessária para que a logo e as fotos dos produtos apareçam.
-
 🏃 Como Executar
 
 Este é um projeto web estático. Nenhuma instalação de servidor ou dependências é necessária.
@@ -70,6 +67,11 @@ cd provaA1Grupo03
 Abra o arquivo principal:
 Abra o arquivo index.html diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
 
-👥 Autor
-
-Grupo 03 (Projeto para a avaliação A1)
+👥 Autores
+Paulo Rafael da Silva Sales
+Graziela Lucena Arruda
+Amanda Morais Castelo Cadete
+Italo Vinicius Sampaio da Silva
+Lanna Adriely Felix Rezende
+Isaac Leal Reis
+Larissa Souza da Silva e Silva
