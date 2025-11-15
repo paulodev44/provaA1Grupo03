@@ -30,25 +30,6 @@ JavaScript (ES6+): Para a lógica de inicialização do mapa.
 
 Leaflet.js: Biblioteca JavaScript de código aberto para mapas interativos.
 
-📂 Estrutura de Arquivos
-
-Para que o site funcione corretamente (especialmente o carregamento dos estilos CSS, do script do mapa e das imagens), a estrutura de pastas deve ser a seguinte:
-
-provaA1Grupo03/
-├── css/
-│   ├── bootstrap.min.css
-│   └── styles.css
-├── js/
-│   └── configuracoes.js
-├── imagens/
-│   ├── logo.jpg
-│   ├── blue_agave.jpg
-│   ├── kopi.jpg
-│   └── lafite.jpg
-├── index.html
-├── BlueAgave.html
-├── ChateauLafitte1787.html
-└── KopiLuwak.html
 
 🏃 Como Executar
 
