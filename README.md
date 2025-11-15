@@ -37,7 +37,7 @@ Este é um projeto web estático. Nenhuma instalação de servidor ou dependênc
 
 Clone o repositório:
 
-git clone [https://github.com/seu-usuario/provaA1Grupo03.git](https://github.com/seu-usuario/provaA1Grupo03.git)
+git clone [https://github.com/seu-usuario/provaA1Grupo03.git](https://github.com/paulodev44/provaA1Grupo03.git)
 
 
 Navegue até a pasta do projeto:
