@@ -36,16 +36,10 @@
 👥 Autores:
 
 Paulo Rafael da Silva Sales
-
 Graziela Lucena Arruda
-
 Amanda Morais Castelo Cadete
-
 Italo Vinicius Sampaio da Silva
-
 Lanna Adriely Felix Rezende
-
 Isaac Leal Reis
-
 Larissa Souza da Silva e Silva
 
