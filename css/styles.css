@@ -56,22 +56,7 @@ body {
   width: 100%; /* Expande a linha para toda a largura do link ao passar o mouse */
 }
 
-/* Cores de texto personalizadas */
-.text-purple {
-  color: #6f42c1; /* Cor roxa */
-}
 
-.text-success {
-  color: #198754; /* Cor verde de sucesso */
-}
-
-.text-danger {
-  color: #dc3545; /* Cor vermelha de erro */
-}
-
-.text-primary {
-  color: #0d6efd; /* Cor azul padrão */
-}
 
 /* Dropdown refinado */
 .dropdown-menu {
@@ -187,4 +172,25 @@ body {
 /* Twitter (Azul Claro) */
 .social-icons a[aria-label="Twitter"]:hover {
     color: #1DA1F2;
+}
+
+/* Cor padrão para todos os itens */
+.navbar-nav .nav-link {
+  color: #000 !important; 
+  transition: color 0.3s ease;
+}
+
+/* BLUE AGAVE - hover azul */
+.navbar-nav .nav-link.blue:hover {
+  color: #0d6efd !important;
+}
+
+/* CHATEAU LAFITTE - hover verde */
+.navbar-nav .nav-link.green:hover {
+  color: #198754 !important;
+}
+
+/* KOPI LUWAK - hover vermelho */
+.navbar-nav .nav-link.red:hover {
+  color: #dc3545 !important;
 }
