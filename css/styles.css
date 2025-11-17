@@ -87,67 +87,61 @@ body {
   background-color: #f8f9fa; /* Fundo claro ao passar o mouse */
   color: #6f42c1; /* Cor roxa ao passar o mouse */
 }
-/*Estilo da página chaVerdeCooler*/
+
 body {
-  font-family: 'Poppins', sans-serif;
-  margin: 0;
-  background-color: #fefefe;
-  color: #333;
+  font-family: 'Poppins', sans-serif; /* Altera a fonte para Poppins nesta seção */
+  margin: 0; /* Remove as margens padrão do navegador */
+  background-color: #fefefe; /* Define um fundo quase branco */
+  color: #333; /* Define a cor do texto principal como cinza escuro */
 }
 
 .navbar {
-  background-color: #e0f7e9;
-  padding: 1em 0;
-  border-bottom: 1px solid #cdebdc;
+  background-color: #e0f7e9; /* Define um fundo verde claro específico para esta navbar */
+  padding: 1em 0; /* Adiciona espaçamento vertical interno */
+  border-bottom: 1px solid #cdebdc; /* Cria uma linha sutil na parte inferior */
 }
 
 .logo {
-  font-size: 1.8em;
-  color: #2e7d32;
-  margin-left: 1em;
+  font-size: 1.8em; /* Aumenta o tamanho da fonte do logo */
+  color: #2e7d32; /* Define um verde escuro para o texto do logo */
+  margin-left: 1em; /* Adiciona margem à esquerda para separar da borda */
 }
 
 .nav-menu {
-  list-style: none;
-  display: flex;
-  gap: 1em;
-  margin-right: 1em;
+  list-style: none; /* Remove os marcadores (bolinhas) da lista */
+  display: flex; /* Coloca os itens do menu lado a lado */
+  gap: 1em; /* Define o espaço entre os itens do menu */
+  margin-right: 1em; /* Adiciona margem à direita */
 }
 
 .nav-menu a {
-  text-decoration: none;
-  color: #2e7d32;
-  font-weight: 500;
+  text-decoration: none; /* Remove o sublinhado padrão dos links */
+  color: #2e7d32; /* Define a cor verde para os links */
+  font-weight: 500; /* Define a espessura da fonte como média */
 }
 
 .nav-menu a.active {
-  border-bottom: 2px solid #2e7d32;
+  border-bottom: 2px solid #2e7d32; /* Adiciona uma borda inferior para indicar o item ativo */
 }
 
 .main-content {
-  padding: 2em;
-  text-align: center;
+  padding: 2em; /* Adiciona espaçamento interno ao redor do conteúdo principal */
+  text-align: center; /* Centraliza o texto e elementos inline */
 }
 
 .produto-img {
-  max-width: 90%;
-  height: auto;
-  margin-top: 1em;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  max-width: 90%; /* Garante que a imagem não ultrapasse 90% da largura da tela */
+  height: auto; /* Mantém a proporção da imagem ao redimensionar */
+  margin-top: 1em; /* Adiciona espaço acima da imagem */
+  border-radius: 12px; /* Arredonda os cantos da imagem */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* Adiciona uma sombra suave para dar profundidade */
 }
 
 .footer {
-  background-color: #e0f7e9;
-  color: #2e7d32;
-  text-align: center;
-  padding: 2em 1em;
-  margin-top: 3em;
-  border-top: 1px solid #cdebdc;
-}
-
-.social-icons a {
-  color: #2e7d32;
-  margin: 0 0.5em;
-  font-size: 1.4em;
+  background-color: #e0f7e9; /* Fundo verde claro para o rodapé */
+  color: #2e7d32; /* Texto em verde escuro */
+  text-align: center; /* Centraliza o conteúdo do rodapé */
+  padding: 2em 1em; /* Espaçamento interno generoso */
+  margin-top: 3em; /* Empurra o rodapé para baixo, separando do conteúdo */
+  border-top: 1px solid #cdebdc; /* Linha superior sutil para separar do corpo */
 }
