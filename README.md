@@ -20,7 +20,7 @@
 
 🚀 Tecnologias Utilizadas
 
-**---HTML5: Para a estrutura semântica do site.**
+---HTML5: Para a estrutura semântica do site.
 
 ---CSS3: Para estilizações personalizadas (via css/styles.css).
 
