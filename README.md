@@ -20,7 +20,7 @@
 
 🚀 Tecnologias Utilizadas
 
----HTML5: Para a estrutura semântica do site.
+**---HTML5: Para a estrutura semântica do site.**
 
 ---CSS3: Para estilizações personalizadas (via css/styles.css).
 
@@ -36,10 +36,16 @@
 👥 Autores:
 
 Paulo Rafael da Silva Sales
+
 Graziela Lucena Arruda
+
 Amanda Morais Castelo Cadete
+
 Italo Vinicius Sampaio da Silva
+
 Lanna Adriely Felix Rezende
+
 Isaac Leal Reis
+
 Larissa Souza da Silva e Silva
 
