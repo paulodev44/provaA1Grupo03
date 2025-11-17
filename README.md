@@ -33,8 +33,8 @@
 
 
 
-👥 Autores
-Paulo Rafael da Silva Sales
+👥 Autores:
+*Paulo Rafael da Silva Sales
 Graziela Lucena Arruda
 Amanda Morais Castelo Cadete
 Italo Vinicius Sampaio da Silva
