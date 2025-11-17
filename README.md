@@ -1,51 +1,46 @@
-🍹 Bebidas de Luxo
+## 🍾 Projeto Bebidas de Luxo: The Reserve Cellar*
 
--Projeto de website estático focado na exibição de bebidas de luxo, criado como parte da avaliação A1 (provaA1Grupo03). O site apresenta uma página inicial com mapa de localização e páginas de detalhe para cada produto.
+Este projeto de website estático que foi desenvolvido para a avaliação **A1 (Prova A1 Grupo 03)** e tem como objetivo principal criar uma vitrine digital sofisticada para um portfólio exclusivo de bebidas de alto padrão. O design foca na experiência do usuário, combinando um layout elegante com funcionalidades interativas.
 
-✨ Funcionalidades
+---
 
--Página Inicial (index.html): Apresenta a loja, informações de boas-vindas e como chegar.
+### ✨ Destaques e Funcionalidades Essenciais
 
--Mapa Interativo: Implementação de um mapa com Leaflet.js na página inicial, mostrando a localização fictícia da "Cidade das Baladas".
+* **Página Inicial (`index.html`):**
+    * **Boas-Vindas:** Apresentação da marca com uma mensagem institucional.
+    * **Localização Interativa:** Integração de um mapa com **Leaflet.js**, destacando a localização fictícia da "Cidade das Baladas" e auxiliando na experiência do usuário.
+* **Páginas de Produtos Exclusivos:**
+    * **`BlueAgave.html` (Tequila *Ultra-Premium*):** Focada na pureza e na herança do *Blue Agave*.
+    * **`KopiLuwak.html` (Café Kopi Luwak):** Exibição do café mais raro e um dos mais caros do mundo, ressaltando sua singularidade.
+    * **`ChateauLafitte1787.html` (Vinho Clássico):** Dedicada a um vinho com profunda relevância histórica e símbolo de *status*, como o icônico *Château Lafite* (mesmo que a safra 1787 seja um mito de colecionadores).
+* **Design Responsivo e Moderno:**
+    * Utilizando o *framework* Bootstrap 5, o site é **totalmente adaptável** a qualquer tamanho de tela, desde *desktops* de alta resolução até *smartphones*.
 
--Páginas de Produtos: Seções dedicadas para três bebidas de luxo, cada uma com sua descrição:
+---
 
---BlueAgave.html (Tequila)
+### 🚀 Stack Tecnológico
 
---KopiLuwak.html (Café)
+As tecnologias selecionadas garantem uma base sólida, eficiente e visualmente atraente para o projeto estático.
 
---ChateauLafitte1787.html (Vinho)
+| Tecnologia | Categoria | Uso no Projeto |
+| :--- | :--- | :--- |
+| **HTML5** | Estrutura | Base semântica e organizada do conteúdo. |
+| **CSS3** | Estilização | Estilos personalizados e acabamento visual (*via `css/styles.css`*). |
+| **Bootstrap 5** | *Framework* | Layout, componentes de UI e implementação eficiente de **responsividade**. |
+| **JavaScript (ES6+)** | Linguagem | Lógica de inicialização e manipulação do mapa. |
+| **Leaflet.js** | Biblioteca | Geração do mapa interativo e leve na página inicial. |
 
--Design Responsivo: O site é adaptável a diferentes tamanhos de tela (desktop e mobile) usando o framework Bootstrap.
+---
 
-🚀 Tecnologias Utilizadas
+### 👥 Autores
 
----HTML5: Para a estrutura semântica do site.
+Desenvolvido por:
 
----CSS3: Para estilizações personalizadas (via css/styles.css).
-
----Bootstrap 5: Framework principal para layout, componentes de UI e responsividade.
-
----JavaScript (ES6+): Para a lógica de inicialização do mapa.
-
----Leaflet.js: Biblioteca JavaScript de código aberto para mapas interativos.
-
-
-
-
-👥 Autores:
-
-Paulo Rafael da Silva Sales
-
-Graziela Lucena Arruda
-
-Amanda Morais Castelo Cadete
-
-Italo Vinicius Sampaio da Silva
-
-Lanna Adriely Felix Rezende
-
-Isaac Leal Reis
-
-Larissa Souza da Silva e Silva
+* Paulo Rafael da Silva
+* Amanda Morais Castelo Cadete
+* Graziela Lucena Arruda
+* Isaac Leal Reis
+* Italo Vinicius Sampaio da Silva
+* Lanna Adriely Felix Rezende
+* Larissa Souza da Silva e Silva
 
