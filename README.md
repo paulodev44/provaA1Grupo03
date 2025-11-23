@@ -1,6 +1,6 @@
 ## 🍾 Projeto Bebidas de Luxo: The Reserve Cellar*
 
-Este projeto de website estático que foi desenvolvido para a avaliação **A1 - Desenvolvimento Front-End Web** e tem como objetivo principal criar uma vitrine digital sofisticada para um portfólio exclusivo de bebidas de alto padrão. O design foca na experiência do usuário, combinando um layout elegante com funcionalidades interativas.
+Este projeto de website estático que foi desenvolvido para a avaliação **A1** da Matéria **Desenvolvimento Front-End para Web** na **UDF** e tem como objetivo principal criar uma vitrine digital sofisticada para um portfólio exclusivo de bebidas de alto padrão. O design foca na experiência do usuário, combinando um layout elegante com funcionalidades interativas.
 
 ---
 
